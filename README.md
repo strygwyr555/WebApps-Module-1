@@ -7,7 +7,7 @@
 
 ![Hosted image](https://en.wikipedia.org/wiki/File:League_of_Legends_logo_2019.png "League of Legends")
 
-[Webpage](https://na.leagueoflegends.com/en-us/ "League of Legends")
+[League of Legends](https://na.leagueoflegends.com/en-us/ "League of Legends")
 
 
 ## Dota 2
@@ -17,4 +17,4 @@
 
 ![Hosted image](https://en.wikipedia.org/wiki/File:Dota_2_(Steam_2019).jpg "Dota 2")
 
-[Webpage](http://blog.dota2.com/?l=english "Dota 2")
+[Dota 2](http://blog.dota2.com/?l=english "Dota 2")
