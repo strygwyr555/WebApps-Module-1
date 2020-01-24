@@ -1,4 +1,4 @@
-# Top 3 eSport Games
+# My favorite eSport Games
 
 ## League of Legends
 1. Developer: Riot Games
